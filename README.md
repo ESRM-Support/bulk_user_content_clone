@@ -1,4 +1,4 @@
-# bulk_user_content_clone
+# bulk_user_content_clone (deprecated)
 Drupal 8 module that both imports users and then creates clones of a designated content type. 
 
 ### Note that we do not expect any further development of this Drupal module since we have moved to WordPress for development as of Nov 2022.
